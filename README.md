@@ -1,7 +1,6 @@
 # ccpbl2
 document parser using azure using azure blob storage,container and form recognizer studio
-![Screenshot 2025-04-20 173206](https://github.com/user-attachments/assets/b953edc1-c70d-4994-b391-872c7fa8df78)
-![Screenshot 2025-04-20 173206](https://github.com/user-attachments/assets/0ee28a7f-01c5-4d3b-808d-3e814a54d6fb)
-![Screenshot 2025-04-20 173206](https://github.com/user-attachments/assets/1ac9a88f-226b-4905-a4e3-d57ad98a94af)
-![Screenshot 2025-04-20 173206](https://github.com/user-attachments/assets/a66c987f-b509-4444-9647-c9aeb8f4b2a2)
-
+![Screenshot 2025-04-20 173206](https://github.com/user-attachments/assets/9052c3ed-2f4d-4eed-9776-0902f3a84010)
+![Screenshot 2025-04-20 173138](https://github.com/user-attachments/assets/18f1b01b-131c-49b9-a669-aada589cf5b9)
+![Screenshot 2025-04-20 173056](https://github.com/user-attachments/assets/1c84bb84-fd10-469c-b1d5-64373b1e6b7f)
+![Screenshot 2025-04-20 172542](https://github.com/user-attachments/assets/7c68001a-8117-4fc7-9f49-1e740d7d512e)
